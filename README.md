@@ -13,4 +13,4 @@
 #### Opções Avançadas: Incluímos a possibilidade de transformar o script em um serviço web ou de implementar sistemas de licenças para um controle mais rigoroso do uso.
 ## Notas Importantes
 #### Antes de executar, ajuste os caminhos de diretório conforme necessário.
-#### Lembre-se de considerar aspectos de segurança e privacidade, principalmente ao lidar com dados sensíveis.
+
